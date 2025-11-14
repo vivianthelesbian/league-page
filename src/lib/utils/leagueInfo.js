@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2020, the Campus to Canton League began in the start of COVID. Each year, the managers compete to win the Legends Cup and avoid the ever-humiliating Tim Bowl.</p>
+  <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team (or perrenial bottom feeder like Zach). A portion of the league prioritzed youth and draft picks, the rest graviated toward the steadfast value of veterans (like Zach, taking Michael Thomas and Antonio Brown). While some managers fled from injuries and down years, others bought the dip and built for the future.</p>
+  <p>Managers have offered, modified, and withdrawn plenty of trades that will be memorable for a lifetime, like Zach trading a 1st round pick for back-up, end-of-career Ronald Jones.</p>
+  <p>Some managers have left the league, but despite that, the league has continued to prosper. With more passionate managers, the competition has become more intense and more difficult each year.</p>
+  <p>While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with 8x their input and the Tim Cup winner gets a fun trophy in their account.</p>
 `;
 
 /*   STEP 3   */
