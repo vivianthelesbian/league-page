@@ -25,7 +25,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "managerID": 447525303498043392,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "447525303498043392",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Tim",
       "location": "Houston", // (optional)
       "bio": "Whack Baby Bitch",
@@ -47,7 +47,7 @@ export const managers = [
     },
     // {
     //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "1180217703201075200",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      "managerID": "447531674482241536",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Jon",
       "location": "Minooka", // (optional)
       "bio": "Jonny Boi",
