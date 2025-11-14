@@ -19,6 +19,14 @@ import { dynasty } from './utils/helper';
             separator: true,
         },
         {
+            name: "Dynasty Daddy",
+            url: `https://dynasty-daddy.com/`,
+            icon: "assessment",
+            premium: false,
+            separator: true,
+            dynastyOnly: false,
+        },
+        {
             name: "FantasyPros Dynasty Trade Value Chart",
             url: `https://www.fantasypros.com/${today.getFullYear()}/${today.getMonth() + 1}/fantasy-football-rankings-dynasty-trade-value-chart-${today.toLocaleString('default', { month: 'long' }).toLowerCase()}-${today.getFullYear()}-update/`,
             icon: "assessment",
